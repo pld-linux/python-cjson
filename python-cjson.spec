@@ -1,8 +1,8 @@
 Summary:	Python C JSON - Fast JSON encoder/decoder for Python
 Name:		python-cjson
 Version:	1.0.5
-Release:	1
-License:	LGPL
+Release:	2
+License:	LGPL v2+
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/p/python-cjson/%{name}-%{version}.tar.gz
 # Source0-md5:	4d55b66ecdf0300313af9d030d9644a3
